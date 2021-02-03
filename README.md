@@ -1,5 +1,5 @@
 # BrightEye
-Decrypter &amp; Unpacker for DarkEye (@K1ngSoul)
+Decrypter &amp; Unpacker for [DarkEye](https://github.com/K1ngSoul/DarkEye)
 
 ![App](https://i.imgur.com/v40XW9E.png)
 
